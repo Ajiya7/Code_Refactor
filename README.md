@@ -1,6 +1,6 @@
 # Code_Refactor
 
-# Author: Faruk Ajiya
+## Author: Faruk Ajiya
 
 ## Your Task
 
